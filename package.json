@@ -1,0 +1,30 @@
+{
+  "name": "tech-news",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DungVA1/tech-news.git"
+  },
+  "keywords": [],
+  "author": "Dung,Vu Anh<dungva1505@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DungVA1/tech-news/issues"
+  },
+  "homepage": "https://github.com/DungVA1/tech-news#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.1.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.3"
+  }
+}
